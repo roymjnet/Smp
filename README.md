@@ -7,11 +7,11 @@
    \ \ `\ \ \ #   \:\_\ \ \ #    \::\ \ #   \. \  \  \ \#   \: \  \ \ #   \. \`-\  \ \#   \:\____/\ #     \::\ \ #
     \_\/ \_\/ #    \_____\/ #     \__\/ #    \__\/ \__\/#    \_____\/ #    \__\/ \__\/#    \_____\/ #      \__\/ #
               ##             ##           ##               ##             ##               ##             ##            ##
-
+```
 # Smp
 Youtube MJNET TV
 ### Cara Install & Cara pemakaian
-
+```
 $ apt-update && apt-upgrade
 $ pkg install python2
 $ pip2 install requests
